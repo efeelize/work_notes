@@ -1,0 +1,72 @@
+skills
+
+
+
+1. 速算方法的选取
+
+  if 选项差很大；
+
+   1.1图形法
+      直接用尺子进行测量
+
+   1.2估算法
+
+
+
+
+  else if；直除法
+
+
+
+
+
+
+
+
+
+
+2.errors
+
+ 1）given:
+    num ALL:
+    rate M
+
+    slove:
+    num F?
+
+    s:1.1)rate F == 100-rateM
+      1.2)num F == num ALL*rate M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
