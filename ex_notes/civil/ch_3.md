@@ -1,7 +1,7 @@
 # ch_3 债法 
 
 # I.trifle
-## 1.error 
+# 1.error 
     1）样品买卖
          if 样品diff && 文字；
                if 样品没变化；样品为准
